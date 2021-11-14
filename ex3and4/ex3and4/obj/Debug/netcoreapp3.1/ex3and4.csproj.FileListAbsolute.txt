@@ -1,0 +1,14 @@
+C:\Users\n3574\source\repos\ex3and4\ex3and4\bin\Debug\netcoreapp3.1\ex3and4.exe
+C:\Users\n3574\source\repos\ex3and4\ex3and4\bin\Debug\netcoreapp3.1\ex3and4.deps.json
+C:\Users\n3574\source\repos\ex3and4\ex3and4\bin\Debug\netcoreapp3.1\ex3and4.runtimeconfig.json
+C:\Users\n3574\source\repos\ex3and4\ex3and4\bin\Debug\netcoreapp3.1\ex3and4.runtimeconfig.dev.json
+C:\Users\n3574\source\repos\ex3and4\ex3and4\bin\Debug\netcoreapp3.1\ex3and4.dll
+C:\Users\n3574\source\repos\ex3and4\ex3and4\bin\Debug\netcoreapp3.1\ex3and4.pdb
+C:\Users\n3574\source\repos\ex3and4\ex3and4\obj\Debug\netcoreapp3.1\ex3and4.csproj.AssemblyReference.cache
+C:\Users\n3574\source\repos\ex3and4\ex3and4\obj\Debug\netcoreapp3.1\ex3and4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n3574\source\repos\ex3and4\ex3and4\obj\Debug\netcoreapp3.1\ex3and4.AssemblyInfoInputs.cache
+C:\Users\n3574\source\repos\ex3and4\ex3and4\obj\Debug\netcoreapp3.1\ex3and4.AssemblyInfo.cs
+C:\Users\n3574\source\repos\ex3and4\ex3and4\obj\Debug\netcoreapp3.1\ex3and4.csproj.CoreCompileInputs.cache
+C:\Users\n3574\source\repos\ex3and4\ex3and4\obj\Debug\netcoreapp3.1\ex3and4.dll
+C:\Users\n3574\source\repos\ex3and4\ex3and4\obj\Debug\netcoreapp3.1\ex3and4.pdb
+C:\Users\n3574\source\repos\ex3and4\ex3and4\obj\Debug\netcoreapp3.1\ex3and4.genruntimeconfig.cache
